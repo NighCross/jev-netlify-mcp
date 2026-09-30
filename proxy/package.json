@@ -1,0 +1,6 @@
+{
+  "name": "jev-netlify-proxy",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
