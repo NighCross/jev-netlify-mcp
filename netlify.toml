@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"   # 或你项目实际的构建命令
+  publish = "public"
+
+[functions]
+  directory = "netlify/functions"   # 或你实际的函数目录
