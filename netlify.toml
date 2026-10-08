@@ -1,6 +1,2 @@
-[build]
-  command = "echo 'no build needed'"
-  publish = "public"
-
 [functions]
   directory = "proxy"
